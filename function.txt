@@ -1,1 +1,3 @@
 select * from emp;
+
+select ename, hiredate from emp;
